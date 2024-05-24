@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **my personal portfolio**
  
- 🌱 I’m currently learning **Docker, AWS, Azure**
+ 🌱 I’m currently learning **React Native, AWS, Azure**
 
 📫 Reach me at **jvtopanotti-da-cunha@myseneca.ca**
 
