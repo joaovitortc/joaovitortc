@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **TravelGenie**
+ 🔭 I’m currently working on **SmoothCutAI**
  
- 🌱 I’m currently learning **React Native, AWS, Azure**
+ 🌱 I’m currently learning **Docker, AWS, Azure**
 
 📫 Reach me at **jvtopanotti-da-cunha@myseneca.ca**
 
