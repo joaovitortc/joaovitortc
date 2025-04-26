@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joao+Cunha!;" />
 </h1>
 
-<h3 align="center">A motivated second-year Computer Programming & Analysis student</h3>
+<h3 align="center">Developing stuff up until AI steal my job</h3>
 
 <br/>
 
@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **SmoothCutAI**
  
- 🌱 I’m currently learning **Docker, AWS, Azure**
+ 🌱 I’m currently learning **Ansible, Terraform and Kafka**
 
 📫 Reach me at **jvtopanotti-da-cunha@myseneca.ca**
 
