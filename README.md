@@ -1,39 +1,28 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joao+Cunha!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=João+Cunha;Systems+Engineer+%26+AI+Builder" />
 </h1>
 
-<h3 align="center">Shipping features faster than AI can replace me..</h3>
+<p align="center">I design and build systems that run reliably at scale and AI-powered automation tools that save businesses real time. Based in Toronto. Systems Engineer at <b>FundServ</b>.</p>
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **SmoothCutAI**
- 
- 🌱 I’m currently learning **Ansible, Terraform and Kafka**
+<p align="center">
+  <a href="https://joaocunha.ca" target="_blank"><img src="https://img.shields.io/badge/🌐_joaocunha.ca-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/joaovitortc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:joaovitor.tc@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
+</p>
 
-📫 Reach me at **jvtopanotti-da-cunha@myseneca.ca**
+<br/>
+<hr/>
 
- </div>
- 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/joaovitortc/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://joaocunha.onrender.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h3 align="center">Stack</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,solidity" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,cpp,nextjs,mysql,dynamodb" /><br>
+    <img src="https://skillicons.dev/icons?i=azure,linux,docker,ansible,terraform,bash,python,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,react,nextjs,mongodb,mysql,kafka,github" />
 </div>
 
 <br/>
 <hr/>
 
+<p align="center"><i>Building something that could use smarter automation or a sharper system behind it?</i><br/><a href="mailto:joaovitor.tc@hotmail.com">Let's talk.</a></p>
