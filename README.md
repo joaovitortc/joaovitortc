@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">I design and build systems that run reliably at scale and AI-powered automation tools that save businesses real time.</p>
-<p align="center">Based in Toronto.</p>
 <p align="center">Systems Engineer at <b>FundServ</b>.</p>
 
 <br/>
@@ -14,7 +13,9 @@
   <a href="mailto:joaovitor.tc@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="center">Stack</h3>
+<p align="center"><i>Building something that could use smarter automation or a sharper system behind it?</i><br/><a href="mailto:joaovitor.tc@hotmail.com">Let's talk.</a></p>
+<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=azure,linux,docker,ansible,terraform,bash,python,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,typescript,react,nextjs,mongodb,mysql,kafka,github" />
@@ -22,4 +23,3 @@
 
 <br/>
 
-<p align="center"><i>Building something that could use smarter automation or a sharper system behind it?</i><br/><a href="mailto:joaovitor.tc@hotmail.com">Let's talk.</a></p>
